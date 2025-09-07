@@ -1,7 +1,1 @@
-Your final project folder should look exactly like this:
-
-defect-deployment-app/
-├── app.py
-├── metal_defect_model_INFERENCE.h5
-├── requirements.txt
-└── packages.txt
+libgl1
