@@ -2,15 +2,21 @@
 A Metal Surface Quality Control & Reporting System
 
 
-**DefectScan** is an end-to-end deep learning application engineered to automate and enhance the process of industrial quality control for **metal surfaces**.  
+- **DefectScan** is an end-to-end deep learning application engineered to automate and enhance the process of industrial quality control for metal surfaces. This project was developed to address the inherent limitations of traditional manual inspection methods, which are often time-consuming, costly, and susceptible to human error and inconsistency.
 
-The system leverages a fine-tuned computer vision model to classify manufacturing defects from images with **high accuracy**, while supporting **batch processing**, **interactive dashboards**, and **automated PDF reporting**.  
+- The system leverages a fine-tuned computer vision model, built upon **MobileNetV2 architecture**, to accurately classify a range of metal sheet defects from digital images with high precision. At its core, the model has been trained on a specialized dataset to reliably distinguish between **six distinct categories** of manufacturing flaws.
+
+- Furthermore, the application is equipped with capabilities for batch processing, allowing operators to analyze **multiple images** simultaneously in a workflow that simulates a real-world, high-throughput production environment. 
+
+- The system's output is an interactive analytics dashboard that provides an immediate, **at a glance summary** of the findings, and includes the automated generation of professional summary reports in **PDF format** for documentation and quality assurance records.
 
 ---
 
 ## 🎥 Live Demonstration  
 
-👉 [**Try DefectScan Here**](https://defectscan.onrender.com)  
+
+👉 A deployed instance of the application is available for interactive use at the following address: 
+  **https://defectscan.onrender.com**  
 
 > ⚠️ *Note: The app is hosted on a free Render service. Initial load may take 30–60 seconds due to cold start.*  
 
