@@ -15,7 +15,7 @@ A Metal Surface Quality Control & Reporting System
 ## 🎥 Live Demonstration  
 
 
-👉 A deployed instance of the application is available for interactive use at the following address: 
+👉 A deployed instance of the application is available for interactive use at the following address/URL: 
   **https://defectscan.onrender.com**  
 
 > ⚠️ *Note: The app is hosted on a free Render service. Initial load may take 30–60 seconds due to cold start.*  
