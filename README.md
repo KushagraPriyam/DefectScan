@@ -1,4 +1,4 @@
-# DefectScan 🛡️
+# DefectScan Pro🔍
 A Metal Surface Quality Control & Reporting System
 
 
